@@ -3,7 +3,7 @@
 <!-- ============================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00c853&center=true&vCenter=true&width=750&lines=Salut+%21+Je+suis+Ried+Steeve;Full-Stack+en+devenir;EPSI+Nantes+-+2ᵉ+année;Alternance+2026+%E2%9C%94" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00c853&center=true&vCenter=true&width=750&lines=Salut+%21+Je+suis+Steeve;Full-Stack+en+devenir;EPSI+Nantes+-+2ᵉ+année;Alternance+2026+%E2%9C%94" />
 </p>
 
 <div align="center">
