@@ -59,7 +59,7 @@ Si tu as un projet où on peut apprendre ensemble, je suis partant !
 | API Symfony + JWT                   | Symfony, JWT, MySQL                   | Auth sécurisée, endpoints protégés    | En cours          |
 | Bijouterie Chim-re                  | PHP, MySQL, JS                        | Login, gestion atelier/RDV, admin     | Scolaire + réel   |
 | [Refonte Mistral Consulting](https://www.mistralincorp.com/)          | PHP, MySQL, JS                        | Dashboard admin complet, déploiement  | Stage 1ʳᵉ année   |
-| Blog local (Mini réseau social -En cours de réalisation)     | Vue.Js + Symfony + Auth Google        | Connexion utilisateur, poste de Blog , commentaire, likes , | Personnel|
+| Blog local (Mini réseau social - En cours de réalisation)     | Vue.Js + Symfony + Auth Google        | Connexion utilisateur, poste de Blog , commentaire, likes , | Personnel|
 
 Tous les repos → [github.com/riedsteeve](https://github.com/riedsteeve?tab=repositories)  
 Portfolio détaillé → [steeve.site](https://steeve.site)
