@@ -1,7 +1,3 @@
-<!-- ============================================= -->
-<!-- GITHUB PROFILE - RIED STEEVE -->
-<!-- ============================================= -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00c853&center=true&vCenter=true&width=750&lines=Salut+%21+Je+suis+Steeve;Full-Stack+en+devenir;EPSI+Nantes+-+2ᵉ+année;Alternance+2026+%E2%9C%94" />
 </p>
@@ -59,10 +55,10 @@ Si tu as un projet où on peut apprendre ensemble, je suis partant !
 |-------------------------------------|---------------------------------------|---------------------------------------|-------------------|
 | Stage 2026 – La Tête dans la Toile  | .NET, C#, Linux, PHP/SCSS             | API REST, sync tool, déploiement systemd, WordPress | Stage en cours    |
 | ESP32-CAM Motion Detection          | Python, OpenCV, Linux                 | Détection auto, SCP, dashboard web fun | Atelier EPSI      |
-| Flutter App + Supabase              | Flutter, Supabase                     | Auth + CRUD real-time                 | Personnel         |
+| Flutter App + Firebase(A réaliser)              | Flutter, Firebase                     | Auth + CRUD real-time                 | Personnel         |
 | API Symfony + JWT                   | Symfony, JWT, MySQL                   | Auth sécurisée, endpoints protégés    | En cours          |
 | Bijouterie Chim-re                  | PHP, MySQL, JS                        | Login, gestion atelier/RDV, admin     | Scolaire + réel   |
-| Refonte Mistral Consulting          | PHP, MySQL, JS                        | Dashboard admin complet, déploiement  | Stage 1ʳᵉ année   |
+| [Refonte Mistral Consulting](https://www.mistralincorp.com/)          | PHP, MySQL, JS                        | Dashboard admin complet, déploiement  | Stage 1ʳᵉ année   |
 
 Tous les repos → [github.com/riedsteeve](https://github.com/riedsteeve?tab=repositories)  
 Portfolio détaillé → [steeve.site](https://steeve.site)
