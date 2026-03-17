@@ -95,8 +95,8 @@ Portfolio détaillé → [steeve.site](https://steeve.site)
     <img src="https://img.shields.io/badge/Portfolio-steeve.site-00c853?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <br><br>
-  <a href="[https://linkedin.com/in/riedsteeve](https://www.linkedin.com/in/steeve-hounkpe-sagbo/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Ried+Steeve-00c853?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/steeve-hounkpe-sagbo/">
+    <img src="https://img.shields.io/badge/LinkedIn-Steeve+HOUNKPE+-+SAGBO-00c853?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 </div>
