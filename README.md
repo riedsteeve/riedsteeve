@@ -96,7 +96,7 @@ Portfolio détaillé → [steeve.site](https://steeve.site)
   </a>
   <br><br>
   <a href="https://www.linkedin.com/in/steeve-hounkpe-sagbo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Steeve+HOUNKPE+-+SAGBO-00c853?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Steeve+HOUNKPE-SAGBO-00c853?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 </div>
