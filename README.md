@@ -46,7 +46,7 @@ Je cherche une **alternance** à partir de **septembre 2026** pour approfondir l
 |--------------------------------------|---------------------------------------|---------------------------------------|-------------------|
 | Stage 2026 – La Tête dans la Toile   | .NET, C#, Linux, PHP/SCSS             | API REST, sync tool, déploiement systemd, WordPress | Stage en cours    |
 | ESP32-CAM Motion Detection           | Python, OpenCV, Linux                 | Détection auto, SCP, dashboard web fun | Atelier EPSI      |
-| Lab DevOps (Apprentissage)           | Terraform, Docker, K8s                | Initiation IaC et orchestration       | Personnel         |
+| Lab DevOps (Apprentissage)           | Terraform, Kubernetes, K9s                | Initiation IaC et orchestration       | Scolaire         |
 | Flutter App + Firebase (À réaliser)  | Flutter, Firebase                     | Auth + CRUD real-time                 | Personnel         |
 | API Symfony + JWT                    | Symfony, JWT, MySQL                   | Auth sécurisée, endpoints protégés    | En cours          |
 | Bijouterie Chim-re                   | PHP, MySQL, JS                        | Login, gestion atelier/RDV, admin     | Scolaire + réel   |
