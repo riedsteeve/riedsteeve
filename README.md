@@ -13,16 +13,12 @@
 ## Hello !
 
 Je suis Ried Steeve (Steeve HOUNKPE-SAGBO), étudiant en 2ᵉ année Socle Numérique à l'EPSI Nantes.  
-Je code depuis un moment maintenant, et j'adore passer d'une idée à une app qui marche vraiment : frontend propre, backend solide, déploiement qui tient la route.
+Passionné par le développement, j'aime transformer des concepts en applications concrètes : du frontend intuitif au backend robuste, jusqu'au déploiement.
 
-En ce moment (janvier-février 2026), je suis en stage chez **La Tête dans la Toile** sur :
-- API .NET + console C# pour sync de fichiers
-- Déploiement Linux (systemd, VPS basics)
-- Contributions WordPress / PHP / SCSS pour le Théâtre Vasse
-- Petit workshop fun : détection de mouvement avec ESP32-CAM + OpenCV
+> [!IMPORTANT]
+> Je développe actuellement mes compétences en **DevOps**, notamment sur l'Infrastructure as Code (**Terraform**) et l'orchestration de conteneurs (**Kubernetes**).
 
-Je cherche une **alternance** à partir de **septembre 2026** pour aller plus loin : backend (.NET/Symfony/Python), mobile Flutter, API sécurisées, ou full-stack avec de l'infra.  
-Si tu as un projet où on peut apprendre ensemble, je suis partant !
+Je cherche une **alternance** à partir de **septembre 2026** pour approfondir le backend (.NET/Symfony/Python), le mobile (Flutter), ou le Cloud/DevOps.
 
 <br>
 
@@ -30,20 +26,15 @@ Si tu as un projet où on peut apprendre ensemble, je suis partant !
 
 <div align="center">
 
-**Frontend & Mobile**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,flutter&perline=7" />
+**Frontend & Mobile** <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,flutter&perline=7" />
 
-**Backend & API**  
-<img src="https://skillicons.dev/icons?i=php,symfony,dotnet,cs,python&perline=7" />
+**Backend & API** <img src="https://skillicons.dev/icons?i=php,symfony,dotnet,cs,python&perline=7" />
 
-**Bases de données**  
-<img src="https://skillicons.dev/icons?i=mysql,supabase,sqlserver&perline=7" />
+**Bases de données** <img src="https://skillicons.dev/icons?i=mysql,supabase,sqlserver&perline=7" />
 
-**Outils & Infra**  
-<img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,figma,xd&perline=7" />
+**Outils & Infra (Bases DevOps)** <img src="https://skillicons.dev/icons?i=linux,docker,terraform,kubernetes,git,vscode&perline=7" />
 
-**Design**  
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&perline=7" />
+**Design** <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&perline=7" />
 
 </div>
 
@@ -51,15 +42,16 @@ Si tu as un projet où on peut apprendre ensemble, je suis partant !
 
 ## Projets qui comptent pour moi
 
-| Projet                              | Stack principal                       | Ce que j'y ai mis                     | Contexte          |
-|-------------------------------------|---------------------------------------|---------------------------------------|-------------------|
-| Stage 2026 – La Tête dans la Toile  | .NET, C#, Linux, PHP/SCSS             | API REST, sync tool, déploiement systemd, WordPress | Stage en cours    |
-| ESP32-CAM Motion Detection          | Python, OpenCV, Linux                 | Détection auto, SCP, dashboard web fun | Atelier EPSI      |
-| Flutter App + Firebase(A réaliser)              | Flutter, Firebase                     | Auth + CRUD real-time                 | Personnel         |
-| API Symfony + JWT                   | Symfony, JWT, MySQL                   | Auth sécurisée, endpoints protégés    | En cours          |
-| Bijouterie Chim-re                  | PHP, MySQL, JS                        | Login, gestion atelier/RDV, admin     | Scolaire + réel   |
-| [Refonte Mistral Consulting](https://www.mistralincorp.com/)          | PHP, MySQL, JS                        | Dashboard admin complet, déploiement  | Stage 1ʳᵉ année   |
-| Blog local (Mini réseau social - En cours de réalisation)     | Vue.Js + Symfony + Auth Google        | Connexion utilisateur, poste de Blog , commentaire, likes , | Personnel|
+| Projet                               | Stack principal                       | Ce que j'y ai mis                     | Contexte          |
+|--------------------------------------|---------------------------------------|---------------------------------------|-------------------|
+| Stage 2026 – La Tête dans la Toile   | .NET, C#, Linux, PHP/SCSS             | API REST, sync tool, déploiement systemd, WordPress | Stage en cours    |
+| ESP32-CAM Motion Detection           | Python, OpenCV, Linux                 | Détection auto, SCP, dashboard web fun | Atelier EPSI      |
+| Lab DevOps (Apprentissage)           | Terraform, Docker, K8s                | Initiation IaC et orchestration       | Personnel         |
+| Flutter App + Firebase (À réaliser)  | Flutter, Firebase                     | Auth + CRUD real-time                 | Personnel         |
+| API Symfony + JWT                    | Symfony, JWT, MySQL                   | Auth sécurisée, endpoints protégés    | En cours          |
+| Bijouterie Chim-re                   | PHP, MySQL, JS                        | Login, gestion atelier/RDV, admin     | Scolaire + réel   |
+| [Refonte Mistral Consulting](https://www.mistralincorp.com/) | PHP, MySQL, JS | Dashboard admin complet, déploiement  | Stage 1ʳᵉ année   |
+| Blog local (Mini réseau social)      | Vue.js + Symfony + Auth Google        | Posts, commentaires, likes, Auth      | Personnel         |
 
 Tous les repos → [github.com/riedsteeve](https://github.com/riedsteeve?tab=repositories)  
 Portfolio détaillé → [steeve.site](https://steeve.site)
