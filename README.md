@@ -32,7 +32,7 @@ Je cherche une **alternance** à partir de **septembre 2026** pour approfondir l
 
 **Bases de données** <img src="https://skillicons.dev/icons?i=mysql,supabase,sqlserver&perline=7" />
 
-**Outils & Infra (Bases DevOps)** <img src="https://skillicons.dev/icons?i=linux,docker,terraform,kubernetes,git,vscode&perline=7" />
+**Outils & Infra (Bases DevOps)** <img src="https://skillicons.dev/icons?i=linux,terraform,kubernetes,git,vscode&perline=7" />
 
 **Design** <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&perline=7" />
 
