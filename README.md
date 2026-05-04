@@ -76,7 +76,7 @@ Portfolio → [steeve-dev.vercel.app](https://steeve-dev.vercel.app/)
 <div align="center">
 
   <a href="mailto:jeffriedh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jeffriedh@gmail.com-00c853?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-steevehounkpesagbo@outlook.com-00c853?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/steeve-hounkpe-sagbo/">
