@@ -66,7 +66,7 @@ Portfolio → [steeve-dev.vercel.app](https://steeve-dev.vercel.app/)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riedsteeve&theme=vue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riedsteeve&theme=vue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br>
