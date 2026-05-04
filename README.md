@@ -12,7 +12,7 @@
 
 ## Hello !
 
-Je suis Ried Steeve (Steeve HOUNKPE-SAGBO), étudiant en 2ᵉ année Socle Numérique à l'EPSI Nantes.  
+Je suis **Ried Steeve (Steeve HOUNKPE-SAGBO)**, étudiant en 2ᵉ année Socle Numérique à l'EPSI Nantes.  
 Passionné par le développement, j'aime transformer des concepts en applications concrètes : du frontend intuitif au backend robuste, jusqu'au déploiement.
 
 > [!IMPORTANT]
@@ -44,17 +44,17 @@ Je cherche une **alternance** à partir de **septembre 2026** pour approfondir l
 
 | Projet                               | Stack principal                       | Ce que j'y ai mis                     | Contexte          |
 |--------------------------------------|---------------------------------------|---------------------------------------|-------------------|
-| Stage 2026 – La Tête dans la Toile   | .NET, C#, Linux, PHP/SCSS             | API REST, sync tool, déploiement systemd, WordPress | Stage en cours    |
-| ESP32-CAM Motion Detection           | Python, OpenCV, Linux                 | Détection auto, SCP, dashboard web fun | Atelier EPSI      |
-| Lab DevOps (Apprentissage)           | Terraform, Kubernetes, K9s                | Initiation IaC et orchestration       | Scolaire         |
-| Flutter App + Firebase (À réaliser)  | Flutter, Firebase                     | Auth + CRUD real-time                 | Personnel         |
+| Stage 2026 – La Tête dans la Toile   | .NET, C#, Linux, PHP/SCSS             | API REST, sync tool, déploiement systemd | Stage en cours    |
+| ESP32-CAM Motion Detection           | Python, OpenCV, Linux                 | Détection auto, SCP, dashboard web    | Atelier EPSI      |
+| Lab DevOps (Apprentissage)           | Terraform, Kubernetes, K9s            | Initiation IaC et orchestration       | Scolaire          |
+| Flutter App + Firebase               | Flutter, Firebase                     | Auth + CRUD real-time                 | Personnel         |
 | API Symfony + JWT                    | Symfony, JWT, MySQL                   | Auth sécurisée, endpoints protégés    | En cours          |
 | Bijouterie Chim-re                   | PHP, MySQL, JS                        | Login, gestion atelier/RDV, admin     | Scolaire + réel   |
-| [Refonte Mistral Consulting](https://www.mistralincorp.com/) | PHP, MySQL, JS | Dashboard admin complet, déploiement  | Stage 1ʳᵉ année   |
+| [Refonte Mistral Consulting](https://www.mistralincorp.com/) | PHP, MySQL, JS | Dashboard admin complet               | Stage 1ʳᵉ année   |
 | Blog local (Mini réseau social)      | Vue.js + Symfony + Auth Google        | Posts, commentaires, likes, Auth      | Personnel         |
 
 Tous les repos → [github.com/riedsteeve](https://github.com/riedsteeve?tab=repositories)  
-Portfolio détaillé → [steeve.site](https://steeve.site](https://steeve-dev.vercel.app/))
+Portfolio → [steeve-dev.vercel.app](https://steeve-dev.vercel.app/)
 
 <br>
 
@@ -78,15 +78,7 @@ Portfolio détaillé → [steeve.site](https://steeve.site](https://steeve-dev.v
   <a href="mailto:jeffriedh@gmail.com">
     <img src="https://img.shields.io/badge/Email-jeffriedh@gmail.com-00c853?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br><br>
-  <a href="tel:+33634396487">
-    <img src="https://img.shields.io/badge/Tel-+33_6_34_39_64_87-00c853?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
-  <br><br>
-  <a href="https://steeve.site">
-    <img src="https://img.shields.io/badge/Portfolio-steeve.site-00c853?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <br><br>
+  &nbsp;
   <a href="https://www.linkedin.com/in/steeve-hounkpe-sagbo/">
     <img src="https://img.shields.io/badge/LinkedIn-Steeve+-00c853?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
