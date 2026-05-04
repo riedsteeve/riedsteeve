@@ -54,7 +54,7 @@ Je cherche une **alternance** à partir de **septembre 2026** pour approfondir l
 | Blog local (Mini réseau social)      | Vue.js + Symfony + Auth Google        | Posts, commentaires, likes, Auth      | Personnel         |
 
 Tous les repos → [github.com/riedsteeve](https://github.com/riedsteeve?tab=repositories)  
-Portfolio détaillé → [steeve.site](https://steeve.site)
+Portfolio détaillé → [steeve.site](https://steeve.site](https://steeve-dev.vercel.app/))
 
 <br>
 
