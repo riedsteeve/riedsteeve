@@ -45,8 +45,8 @@ Passionné par le développement, j'aime transformer des concepts en application
 | Stage 2026 – La Tête dans la Toile   | .NET, C#, Linux, PHP/SCSS             | API REST, sync tool, déploiement systemd | Stage 2ème année    |
 | ESP32-CAM Motion Detection           | Python, OpenCV, Linux                 | Détection auto, SCP, dashboard web    | Atelier EPSI      |
 | Lab DevOps (Apprentissage)           | Terraform, Kubernetes, K9s            | Initiation IaC et orchestration       | Scolaire          |
-| Flutter App + Firebase               | Flutter, Firebase                     | Auth + CRUD real-time                 | Personnel         |
-| API Symfony + JWT                    | Symfony, JWT, MySQL                   | Auth sécurisée, endpoints protégés    | En cours          |
+| Flutter App               | Flutter, sqfLite                     | Auth + CRUD                 | Scolaire         |
+| API Symfony + JWT                    | Symfony, JWT, MySQL                   | Auth sécurisée, endpoints protégés    | Personnel          |
 | Bijouterie Chim-re                   | PHP, MySQL, JS                        | Login, gestion atelier/RDV, admin     | Scolaire + réel   |
 | [Refonte Mistral Consulting](https://www.mistralincorp.com/) | PHP, MySQL, JS | Dashboard admin complet               | Stage 1ʳᵉ année   |
 | Blog local (Mini réseau social)      | Vue.js + Symfony + Auth Google        | Posts, commentaires, likes, Auth      | Personnel         |
