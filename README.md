@@ -18,8 +18,6 @@ Passionné par le développement, j'aime transformer des concepts en application
 > [!IMPORTANT]
 > Je développe actuellement mes compétences en **DevOps**, notamment sur l'Infrastructure as Code (**Terraform**) et l'orchestration de conteneurs (**Kubernetes**).
 
-Je cherche une **alternance** à partir de **septembre 2026** pour approfondir le backend (.NET/Symfony/Python), le mobile (Flutter), ou le Cloud/DevOps.
-
 <br>
 
 ## Ce que je maîtrise en ce moment
