@@ -12,7 +12,7 @@
 
 ## Hello !
 
-Je suis **Ried Steeve (Steeve HOUNKPE-SAGBO)**, étudiant en 2ᵉ année Socle Numérique à l'EPSI Nantes.  
+Je suis **Ried Steeve (Steeve HOUNKPE-SAGBO)**, étudiant en 3ᵉ année Socle Numérique à l'EPSI Nantes.  
 Passionné par le développement, j'aime transformer des concepts en applications concrètes : du frontend intuitif au backend robuste, jusqu'au déploiement.
 
 > [!IMPORTANT]
